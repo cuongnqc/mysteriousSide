@@ -1,2 +1,2 @@
 workflow learn and adjust
-for funfun
+for fun
